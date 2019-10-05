@@ -19,7 +19,7 @@ print ('\033[37;1m[             Contact Me : 0895348777465       ]')
 print ('\033[31;1m[----------------------------------------------]')
 print('')
 
-Sadar!!!i = '''
+Sadar = '''
 [ Sadar tolol dia itu bukan nonton film tapi lagi chtan sama yg lain!!'''
 time.sleep(1)
 print('')
