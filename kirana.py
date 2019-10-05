@@ -12,21 +12,19 @@ r = '\033[31;1m'
 w = '\033[37;1m'
 y = '\033[33;1m'
 
-print ('\033[31;1m[----------------Tools Perjuangan--------------]')
-print ('\033[37;1m[               Author : Romy Juliansyah            ]')
-print ('\033[31;1m[             Team :  RABBIT CYBER TEAM    ]')
-print ('\033[37;1m[             Contact Me : 0895348777465        ]')
+print ('\033[31;1m[----------------Tools Curhatan Heker----------]')
+print ('\033[37;1m[               Author : Romy Juliansyah       ]')
+print ('\033[31;1m[             Team :  RABBIT CYBER TEAM        ]')
+print ('\033[37;1m[             Contact Me : 0895348777465       ]')
 print ('\033[31;1m[----------------------------------------------]')
 print('')
 
-pilihan = '''
-{1}Arti Dari Kata LDR
-{2}Aku Sayang Dia
-{3}exit'''
+Sadar!!!i = '''
+[ Sadar tolol dia itu bukan nonton film tapi lagi chtan sama yg lain!!'''
 time.sleep(1)
 print('')
-print (pilihan)
-gabut = input('Mau Yang Mana? : ')
+print ()
+gabut = input(' : ')
 print('')
 time.sleep(1)
 
